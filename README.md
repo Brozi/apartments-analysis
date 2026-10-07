@@ -6,7 +6,7 @@ This repository contains a group data analysis project conducted in **R** using 
 
 The project explores the factors associated with apartment prices through data cleaning, exploratory analysis, statistical testing, visualization, regression modeling, and unsupervised learning.
 
-> **Start here:** [Open `apartments-final.R`](apartments-final.R)  
+> **Start here:** [Open `apartments.R`](apartments.R)  
 > This is the final, consolidated version of the analysis. The remaining `.R` files contain earlier or supporting versions of the work.
 
 ## Objectives
