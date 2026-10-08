@@ -8,6 +8,7 @@ The project explores the factors associated with apartment prices through data c
 
 > **Start here:** [Open `apartments.R`](apartments.R)  
 > This is the final, consolidated version of the analysis. The remaining `.R` files contain earlier or supporting versions of the work.
+> If you want to view the raw data, files are in the [data](data/) folder, both in .csv as well as .xlsx format.
 
 ## Objectives
 
